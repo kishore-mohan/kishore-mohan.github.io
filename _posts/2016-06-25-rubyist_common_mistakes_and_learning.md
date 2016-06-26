@@ -10,8 +10,6 @@ categories:
 - Ruby
 tags:
 - "Ruby, Mistakes, Errors, Hash, irb, kishore-mohan, kishore.M"
-image:
-  feature: common-mistakes-min.jpg
 ---
 
 After long break and busy weekends, again back with useful blog. Hope definitely it will helpful to others as well. Lets quickly get into code.
